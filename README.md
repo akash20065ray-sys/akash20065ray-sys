@@ -4,14 +4,14 @@
 ### AI Systems & GPU Infrastructure • Low-Level Systems • Deep Learning Runtimes
 **B.Tech Computer Engineering • Vishwakarma Institute of Technology (VIT Pune)**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=76B900&center=true&vcenter=true&width=780&lines=AI+Systems+%26+Paged+KV-Cache+LLM+Serving+(nano-vllm);Bare-Metal+x86+Firmware+%26+Audio+Synthesis+(Crimson+Orbit);Sub-Millisecond+Early-Flow+TLS+1.3+Threat+Detection+(CipherSieve);Interactive+Discrete+Math+%26+Automata+IDE+(LogicVerse);Hardware-Conscious+Systems+%26+Low-Latency+Runtimes)](https://github.com/akash20065ray-sys)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vcenter=true&width=780&lines=AI+Systems+%26+Paged+KV-Cache+LLM+Serving+(nano-vllm);Bare-Metal+x86+Firmware+%26+Audio+Synthesis+(Crimson+Orbit);Sub-Millisecond+Early-Flow+TLS+1.3+Threat+Detection+(CipherSieve);Interactive+Discrete+Math+%26+Automata+IDE+(LogicVerse);Hardware-Conscious+Systems+%26+Low-Latency+Runtimes)](https://github.com/akash20065ray-sys)
 
 <p align="center">
   <a href="mailto:akash20065ray@gmail.com"><img src="https://img.shields.io/badge/Email-akash20065ray%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/akash20065ray-sys"><img src="https://img.shields.io/badge/GitHub-akash20065ray--sys-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/akash20065ray-sys/nano-vllm"><img src="https://img.shields.io/badge/Flagship-nano--vllm-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="nano-vllm" /></a>
+  <a href="https://github.com/akash20065ray-sys/nano-vllm"><img src="https://img.shields.io/badge/Flagship-nano--vllm-00F0FF?style=for-the-badge&logo=pytorch&logoColor=black" alt="nano-vllm" /></a>
   <a href="https://akash20065ray-sys.github.io/Crimson_Orbit/"><img src="https://img.shields.io/badge/Live%20Demo-Crimson%20Orbit-crimson?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
-  <a href="#-interactive-3d-solar-system--galaxy-architecture"><img src="https://img.shields.io/badge/3D%20Space-Solar%20System%20Portfolio-00e5ff?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Solar System" /></a>
+  <a href="#-interactive-3d-solar-system--galaxy-architecture"><img src="https://img.shields.io/badge/3D%20Space-Solar%20System%20Portfolio-00F0FF?style=for-the-badge&logo=three.js&logoColor=black" alt="3D Solar System" /></a>
 </p>
 
 </div>
