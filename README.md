@@ -11,13 +11,30 @@
   <a href="https://github.com/akash20065ray-sys"><img src="https://img.shields.io/badge/GitHub-akash20065ray--sys-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/akash20065ray-sys/nano-vllm"><img src="https://img.shields.io/badge/Flagship-nano--vllm-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="nano-vllm" /></a>
   <a href="https://akash20065ray-sys.github.io/Crimson_Orbit/"><img src="https://img.shields.io/badge/Live%20Demo-Crimson%20Orbit-crimson?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
+  <a href="#-interactive-3d-solar-system--galaxy-architecture"><img src="https://img.shields.io/badge/3D%20Space-Solar%20System%20Portfolio-00e5ff?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Solar System" /></a>
 </p>
 
 </div>
 
 ---
 
-### ⚡ Systems Engineering Metrics & Empirical Highlights
+### 🌌 Interactive 3D Solar System & Galaxy Architecture
+
+Every major engineering system I've built maps to a celestial body in my **3D Solar System & Galaxy Portfolio** (procedural WebGL simulation built with Three.js):
+
+<div align="center">
+
+| Celestial Body | Flagship Engineering System | Planetary Specialty & Metric |
+| :--- | :--- | :--- |
+| ☀️ **The Sun** | **Akash Kumar (Core)** | Central Thesis: GPU Infrastructure, Bare-Metal & Low-Latency Systems |
+| ☿️ **Mercury** | [`CipherSieve`](https://github.com/akash20065ray-sys/CipherSieve) | Sub-ms payload-agnostic encrypted TLS 1.3 threat detection (`< 1.0 ms`) |
+| ♀️ **Venus** | [`Argus-ML`](https://github.com/akash20065ray-sys/Argus-ML) | High-pressure streaming statistical drift (KS / PSI) & DAG root-cause engine |
+| 🌍 **Earth & Moon** | [`LogicVerse`](https://github.com/akash20065ray-sys/Logic_verse) | Visual IDE for Discrete Mathematics, DAG topology & Automata simulators |
+| ♂️ **Mars** | [`Crimson Orbit`](https://github.com/akash20065ray-sys/Crimson_Orbit) | Sub-15ms (`11.8 ms`) real-mode 8086 WebAssembly AudioWorklet synthesis |
+| ♃ **Jupiter** | [`nano-vllm`](https://github.com/akash20065ray-sys/nano-vllm) | Titan of Memory: Paged KV-Cache, continuous batching & 0.00% fragmentation |
+| ♄ **Saturn** | [`ORCA`](https://github.com/akash20065ray-sys/ORCA) | Distributed orchestration ring of 8 specialized marine intelligence agents |
+
+</div>
 
 <div align="center">
 
