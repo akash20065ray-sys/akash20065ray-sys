@@ -4,7 +4,7 @@
 ### AI Systems & GPU Infrastructure • Low-Level Systems • Deep Learning Runtimes
 **B.Tech Computer Engineering • Vishwakarma Institute of Technology (VIT Pune)**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=76B900&center=true&vcenter=true&width=780&lines=AI+Systems+%26+Paged+KV-Cache+LLM+Serving+(nano-vllm);Bare-Metal+x86+Firmware+%26+Audio+Synthesis+(Crimson+Orbit);Sub-Millisecond+Early-Flow+TLS+1.3+Threat+Detection+(CipherSieve);Author+of+IEEE+Conference+Publication+(Camera-Ready);Interactive+Discrete+Math+%26+Automata+IDE+(LogicVerse))](https://github.com/akash20065ray-sys)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=76B900&center=true&vcenter=true&width=780&lines=AI+Systems+%26+Paged+KV-Cache+LLM+Serving+(nano-vllm);Bare-Metal+x86+Firmware+%26+Audio+Synthesis+(Crimson+Orbit);Sub-Millisecond+Early-Flow+TLS+1.3+Threat+Detection+(CipherSieve);Interactive+Discrete+Math+%26+Automata+IDE+(LogicVerse);Hardware-Conscious+Systems+%26+Low-Latency+Runtimes)](https://github.com/akash20065ray-sys)
 
 <p align="center">
   <a href="mailto:akash20065ray@gmail.com"><img src="https://img.shields.io/badge/Email-akash20065ray%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -27,7 +27,7 @@
 | ⚡ **I/O Bus Interception** | **0.889 µs** | Targeted Real-Mode PIT 8253 Bus Trapping | `Crimson_Orbit` |
 | 🧠 **VRAM Fragmentation** | **0.00 %** | Paged KV-Cache Dynamic Block Allocation | `nano-vllm` |
 | 🔒 **Threat Classification** | **< 1.0 ms** | Payload-Agnostic Early-Flow TLS 1.3 Detection | `CipherSieve` |
-| 📜 **Research Paper** | **1 IEEE** | Camera-Ready Conference Publication (Turnitin 3.8%) | IEEE Publication |
+| 🔄 **Continuous Batching** | **Token-Level** | Dynamic Iteration Scheduling & Zero OOM | `nano-vllm` |
 
 </div>
 
@@ -41,7 +41,7 @@ I am a systems and AI infrastructure engineer focused on **GPU memory architectu
 - ⚡ **Low-Level Architecture & Firmware:** Bare-metal 16-bit real-mode x86 assembly, custom 512-byte MBR bootloaders, bus-cycle hardware interception (PIT 8253 / PPI 61h), and WebAssembly AudioWorklet bridges.
 - 🛡️ **Network Systems & Security Intelligence:** Sub-millisecond payload-agnostic behavioral threat classification on encrypted (TLS 1.3 / HTTPS) traffic using 13 transport-layer temporal dynamics.
 - 📐 **Formal Computation & Visualization:** Interactive topological DAG engines, Turing Machine tape visualizers, pushdown automata (PDA) stack simulators, and automated counter-example finders.
-- 📜 **Published Research:** Author of ***Targeted Bus-Cycle Interception: A Low-Latency WebAssembly Bridge for 16-Bit Bare-Metal Audio Synthesis and Multi-Timbral Acoustic Resynthesis*** (IEEE Conference Publication).
+- 🔬 **Engineering Philosophy:** Designing hardware-conscious systems software, verifying microsecond telemetry, and building rich developer tools.
 
 ---
 
@@ -170,7 +170,7 @@ I am a systems and AI infrastructure engineer focused on **GPU memory architectu
       <p>
         <img src="https://img.shields.io/badge/Arch-x86%20Real--Mode-red?style=flat-square" />
         <img src="https://img.shields.io/badge/Latency-11.8ms-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Paper-IEEE%20Camera--Ready-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bus%20Trap-0.889µs-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
       </p>
       <ul>
@@ -178,7 +178,7 @@ I am a systems and AI infrastructure engineer focused on **GPU memory architectu
         <li>⏱️ <b>0.889 µs</b> targeted I/O bus-cycle interceptor (PIT 8253 / PPI 61h).</li>
         <li>💾 Custom 512-byte MBR bootloader running autonomous real-mode x86 kernel.</li>
         <li>🎹 Multi-timbral acoustic resynthesis engine (Steinway Piano, Martin Guitar, Ludwig Drums).</li>
-        <li>📄 Camera-ready 6-page IEEE conference publication & Turnitin verified (3.8%).</li>
+        <li>⚡ Pure real-mode x86 assembly synthesized to high-fidelity audio streams.</li>
       </ul>
       <p>
         <a href="https://akash20065ray-sys.github.io/Crimson_Orbit/"><b>[Live Web Studio]</b></a> • 
@@ -263,21 +263,6 @@ I am a systems and AI infrastructure engineer focused on **GPU memory architectu
     </td>
   </tr>
 </table>
-
----
-
-### 📜 Publications & Research Manuscripts
-
-```bibtex
-@inproceedings{crimsonorbit2026,
-  author    = {Aher, Krishna and Bhargude, Sanskar and Agaldare, Ghansham and Birare, Hari and Kumar, Akash},
-  title     = {Targeted Bus-Cycle Interception: A Low-Latency WebAssembly Bridge for 16-Bit Bare-Metal Audio Synthesis and Multi-Timbral Acoustic Resynthesis},
-  booktitle = {Proceedings of the IEEE Conference on Computer Systems and Multidisciplinary Engineering},
-  year      = {2026},
-  pages     = {1--6},
-  publisher = {IEEE}
-}
-```
 
 ---
 
